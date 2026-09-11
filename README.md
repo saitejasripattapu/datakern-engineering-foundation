@@ -119,7 +119,7 @@ These are psql commands and cannot run in pgAdmin's SQL Query Tool. Stop and res
 
 The solutions are in [database/04_analysis_queries.sql](database/04_analysis_queries.sql):
 
-1. How many customers are there? - 96096
+1. How many customers are there? - 99441
 2. How many products are there? - 73
 3. How many sellers are there? - 3095
 4. How many orders are there? - 99441
